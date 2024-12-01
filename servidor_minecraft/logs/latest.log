@@ -678,3 +678,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 23:15:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [Alex's Mobs]
 [01Dec2024 23:20:13.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Timed out
 [01Dec2024 23:20:13.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
+[01Dec2024 23:53:02.365] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d05ca6e[id=<null>,name=Fragger,properties={},legacy=false] (/127.110.16.230:52591) lost connection: Disconnected
+[01Dec2024 23:53:14.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fragger[/127.110.16.230:47853] logged in with entity id 3210 at (3.5, 113.0, 5.5)
+[01Dec2024 23:53:14.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger joined the game
+[01Dec2024 23:53:14.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger has completed the challenge [The Undead]
+[01Dec2024 23:53:32.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=112, z=5}
+[01Dec2024 23:53:34.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=112, z=5}
+[01Dec2024 23:53:34.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger has made the advancement [Alex's Mobs]
+[01Dec2024 23:53:36.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=112, z=5}
+[01Dec2024 23:53:36.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=112, z=5}
+[01Dec2024 23:53:44.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=116, z=-2}
+[01Dec2024 23:53:45.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=-2}
+[01Dec2024 23:53:51.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=115, z=0}
+[01Dec2024 23:53:52.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=114, z=4}
+[01Dec2024 23:53:53.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=114, z=4}
+[01Dec2024 23:53:53.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=115, z=4}
+[01Dec2024 23:53:56.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fragger lost connection: Disconnected
+[01Dec2024 23:53:56.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger left the game
