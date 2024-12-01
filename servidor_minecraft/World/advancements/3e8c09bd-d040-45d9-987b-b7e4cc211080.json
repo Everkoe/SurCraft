@@ -1,0 +1,84 @@
+{
+  "global:pirates": {
+    "criteria": {
+      "trigger": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "global:exandreal": {
+    "criteria": {
+      "trigger": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-01 17:29:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 17:29:38 -0500"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-01 17:33:19 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 17:29:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-01 17:30:11 -0500",
+      "minecraft:river": "2024-12-01 17:30:14 -0500",
+      "minecraft:forest": "2024-12-01 17:29:57 -0500",
+      "minecraft:plains": "2024-12-01 17:29:29 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

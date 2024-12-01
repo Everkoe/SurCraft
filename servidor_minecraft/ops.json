@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "6905c68f-1489-34f6-9cd0-97cc65a5516d",
+    "name": "Everkoe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
