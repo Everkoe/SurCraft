@@ -674,3 +674,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 23:11:11.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
 [01Dec2024 23:13:12.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Everkoe[/127.164.14.156:52425] logged in with entity id 988 at (139.00833516272806, 149.35680167150971, 21.494864456099155)
 [01Dec2024 23:13:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe joined the game
+[01Dec2024 23:15:15.537] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[01Dec2024 23:15:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [Alex's Mobs]
+[01Dec2024 23:20:13.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Timed out
+[01Dec2024 23:20:13.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
