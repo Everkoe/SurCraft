@@ -347,3 +347,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 19:32:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Everkoe> xaero-waypoint:Dungeon triple:D:-1477:68:-1210:10:false:0:Internal-overworld-waypoints
 [02Dec2024 19:32:21.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Disconnected
 [02Dec2024 19:32:21.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
+[02Dec2024 19:39:04.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 19:39:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 19:39:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 19:39:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 19:39:04.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 19:39:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 19:39:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 19:39:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 19:39:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 19:39:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 19:39:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
