@@ -949,9 +949,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-02 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 19:10:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-02 18:20:58 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/three_bolt_armor": {
+    "criteria": {
+      "three_bolt_armor": "2024-12-02 19:12:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2024-12-02 19:12:23 +0000"
     },
     "done": true
   },
