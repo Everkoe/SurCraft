@@ -4,5 +4,11 @@
     "name": "Everkoe",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "197e56a5-e261-33c1-a3e7-a32a92ce2d56",
+    "name": "Fragger",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
