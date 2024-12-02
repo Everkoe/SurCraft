@@ -298,3 +298,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 19:15:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has completed the challenge [I'm not sugar coating it]
 [02Dec2024 19:15:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has completed the challenge [Unfunny dad jokes]
 [02Dec2024 19:15:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [First big catch of the month!]
+[02Dec2024 19:17:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
+[02Dec2024 19:17:55.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set the time to 1000]
+[02Dec2024 19:19:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 19:20:39.848] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[02Dec2024 19:21:35.604] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_ruins took 5019 ms
+[02Dec2024 19:21:35.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4987ms or 99 ticks behind
+[02Dec2024 19:21:35.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe moved too quickly! -5.227686449250498,-5.552424275369233,6.926050893746265
+[02Dec2024 19:21:44.559] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Dec2024 19:21:44.562] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Dec2024 19:21:44.565] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Dec2024 19:21:44.566] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Dec2024 19:21:44.566] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Dec2024 19:21:44.567] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Dec2024 19:21:44.568] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Dec2024 19:21:47.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Teleported Everkoe to -1503.500000, 110.796158, -1199.500000]
+[02Dec2024 19:21:47.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe moved too quickly! 0.0,-12.16874946665574,0.0
+[02Dec2024 19:21:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [Ice Maze]
+[02Dec2024 19:22:01.855] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Dec2024 19:22:31.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[02Dec2024 19:23:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
+[02Dec2024 19:23:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 19:23:44.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [Shell City]
+[02Dec2024 19:23:49.545] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Dec2024 19:23:58.581] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Dec2024 19:23:58.590] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Dec2024 19:23:58.593] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Dec2024 19:23:58.594] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Dec2024 19:23:58.595] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Dec2024 19:23:58.595] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Dec2024 19:23:58.596] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Dec2024 19:24:05.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Survival Mode]
+[02Dec2024 19:24:17.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 19:24:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
+[02Dec2024 19:24:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [A Lighthouse in Your Eyes]
+[02Dec2024 19:25:01.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 19:25:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
