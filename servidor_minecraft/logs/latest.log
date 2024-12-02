@@ -125,3 +125,18 @@
 [02Dec2024 03:55:55.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Gave 1 [Barrier] to Everkoe]
 [02Dec2024 04:03:22.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe was killed
 [02Dec2024 04:03:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Killed Everkoe]
+[02Dec2024 04:09:48.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Disconnected
+[02Dec2024 04:09:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
+[02Dec2024 04:12:10.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Everkoe[/127.164.14.156:46641] logged in with entity id 31175 at (4.317957421041054, 115.0, -2.5942807974853532)
+[02Dec2024 04:12:10.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe joined the game
+[02Dec2024 04:21:00.285] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/bandit_towers (dungeons_arise:bandit_towers) took 2404 ms
+[02Dec2024 04:21:00.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[02Dec2024 04:21:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Teleported Everkoe to -2863.500000, 115.000000, -3727.500000]
+[02Dec2024 04:21:48.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14459ms or 289 ticks behind
+[02Dec2024 04:21:49.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [What Happens in Las Vegas...]
+[02Dec2024 04:21:54.005] [Worker-Main-226/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[02Dec2024 04:22:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 04:23:53.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
+[02Dec2024 04:24:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 04:26:27.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Disconnected
+[02Dec2024 04:26:27.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
