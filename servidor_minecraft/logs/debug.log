@@ -3887,3 +3887,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 01:23:34.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Everkoe[/127.164.14.156:45461] logged in with entity id 15141 at (89.40380474951043, 99.25203851319188, 242.69999998807907)
 [02Dec2024 01:23:34.941] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@27f04cfb into net.minecraft.network.Connection@37236ce1
 [02Dec2024 01:23:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe joined the game
+[02Dec2024 01:28:16.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:28:16.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:30:07.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe moved too quickly! -7.94770420604749,0.0,-6.856623263751089
+[02Dec2024 01:31:41.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe moved too quickly! -2.626277695612373,-9.212004222533523,-3.180852584437048
+[02Dec2024 01:31:46.043] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[02Dec2024 01:32:24.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18123, l='ServerLevel[world]', x=-163.50, y=82.00, z=-400.50]
+[02Dec2024 01:33:06.907] [Worker-Main-133/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Dec2024 01:33:06.908] [Worker-Main-133/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Dec2024 01:33:14.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Disconnected
+[02Dec2024 01:33:14.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
+[02Dec2024 01:33:16.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:33:16.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
