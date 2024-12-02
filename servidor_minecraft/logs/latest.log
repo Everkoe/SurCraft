@@ -334,3 +334,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 19:24:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [A Lighthouse in Your Eyes]
 [02Dec2024 19:25:01.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
 [02Dec2024 19:25:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
+[02Dec2024 19:26:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has reached the goal [Captain Nemo]
+[02Dec2024 19:26:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Spectator Mode]
+[02Dec2024 19:27:35.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe has made the advancement [Alex's Caves]
+[02Dec2024 19:27:38.996] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:14.966301f,range:16,source:{source_entity:[I;-1269803199,1406288884,-1368575784,873763783],type:"minecraft:entity",y_offset:0.36f}}]
+[02Dec2024 19:27:39.000] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:15.677114f,range:16,source:{source_entity:[I;-1862562784,1936213372,-1321171787,470854429],type:"minecraft:entity",y_offset:0.36f}}]
+[02Dec2024 19:27:55.188] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Dec2024 19:30:52.845] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[02Dec2024 19:30:52.846] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[02Dec2024 19:30:52.846] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[02Dec2024 19:31:36.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Everkoe: Set own game mode to Creative Mode]
+[02Dec2024 19:32:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Everkoe> xaero-waypoint:Dungeon triple:D:-1477:68:-1210:10:false:0:Internal-overworld-waypoints
+[02Dec2024 19:32:21.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Everkoe lost connection: Disconnected
+[02Dec2024 19:32:21.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe left the game
