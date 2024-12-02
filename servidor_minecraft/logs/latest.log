@@ -91,3 +91,5 @@
 [02Dec2024 00:34:21.727] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8998, l='ServerLevel[world]', x=43.37, y=63.00, z=258.50] died, message: 'death.attack.mob.player'
 [02Dec2024 00:41:52.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger has made the advancement [Diamonds!]
 [02Dec2024 00:42:00.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger has made the advancement [Acquire Hardware]
+[02Dec2024 00:56:22.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fragger lost connection: Disconnected
+[02Dec2024 00:56:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger left the game
