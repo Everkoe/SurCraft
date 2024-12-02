@@ -93,3 +93,5 @@
 [02Dec2024 00:42:00.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger has made the advancement [Acquire Hardware]
 [02Dec2024 00:56:22.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fragger lost connection: Disconnected
 [02Dec2024 00:56:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fragger left the game
+[02Dec2024 01:23:34.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Everkoe[/127.164.14.156:45461] logged in with entity id 15141 at (89.40380474951043, 99.25203851319188, 242.69999998807907)
+[02Dec2024 01:23:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Everkoe joined the game
